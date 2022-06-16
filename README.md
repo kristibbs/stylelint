@@ -19,5 +19,5 @@ This is an example path, the actual path will differ for you
 
 npx stylelint "sass/components/forms/*.scss"
 
-to autofix issues add --fix to the command
+To autofix issues add --fix to the command
 npx stylelint "sass/components/_sassfile-b.scss" --fix
